@@ -1,0 +1,11 @@
+{
+    "plugins": ["ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-123456-1"
+        }
+    },
+    "variables": {
+        "BASE_URL": "https://guenmo.github.io/GuenMo/Maya_Plugin_Compile"
+    }
+}
