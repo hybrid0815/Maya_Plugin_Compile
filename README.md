@@ -87,8 +87,8 @@
 ## 8. 릴리즈 셋팅
 
 - 구성: Release
-- 출력 디렉터리: $(ProjectDir)build\debug\
-- 중간 디렉터리: $(ProjectDir)intermediates\debug\
+- 출력 디렉터리: $(ProjectDir)build\release\
+- 중간 디렉터리: $(ProjectDir)intermediates\release\
 
 ![Local Image](img/18.png)
 
